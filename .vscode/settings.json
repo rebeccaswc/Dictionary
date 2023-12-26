@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/rebecca/Downloads/javafx-sdk-21.0.1/**/*.jar",
+        "/Users/rebecca/Desktop/112進階物件導向/B11009035_HW6 /Parking/lib/json-20231013.jar"
+    ]
+}
